@@ -68,29 +68,29 @@ Ready to boost your quant career prospects? Use the form below to get in touch, 
 <!-- Start of improved contact form -->
 <form action="https://formspree.io/f/your_unique_code" method="POST" style="margin-top: 20px;">
 
-  <label for="contact-name">Your Name:</label><br>
-  <input type="text" id="contact-name" name="name" required style="width: 90%; padding: 8px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px;">
-  <br>
+<label for="contact-name">Your Name:</label><br>
+<input type="text" id="contact-name" name="name" required style="width: 90%; padding: 8px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px;">
+<br>
 
-  <label for="contact-email">Your Email:</label><br>
-  <input type="email" id="contact-email" name="email" required style="width: 90%; padding: 8px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px;">
-  <br>
+<label for="contact-email">Your Email:</label><br>
+<input type="email" id="contact-email" name="email" required style="width: 90%; padding: 8px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px;">
+<br>
 
-  <label for="contact-subject">Subject:</label><br>
-  <input type="text" id="contact-subject" name="_subject" style="width: 90%; padding: 8px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px;">
-  <br>
+<label for="contact-subject">Subject:</label><br>
+<input type="text" id="contact-subject" name="_subject" style="width: 90%; padding: 8px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px;">
+<br>
 
-  <label for="contact-message">Message (including service/package interest):</label><br>
-  <textarea id="contact-message" name="message" rows="6" required style="width: 90%; padding: 8px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px;"></textarea>
-  <br>
+<label for="contact-message">Message (including service/package interest):</label><br>
+<textarea id="contact-message" name="message" rows="6" required style="width: 90%; padding: 8px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px;"></textarea>
+<br>
 
-  <!-- Optional: Add a hidden field for redirection after submission -->
-  <!-- <input type="hidden" name="_next" value="https://your-github-username.github.io/thankyou.html"> -->
+<!-- Optional: Add a hidden field for redirection after submission -->
+<!-- <input type="hidden" name="_next" value="https://your-github-username.github.io/thankyou.html"> -->
 
-  <!-- Optional: honeypot field for basic spam protection -->
-  <input type="text" name="_gotcha" style="display:none">
+<!-- Optional: honeypot field for basic spam protection -->
+<input type="text" name="_gotcha" style="display:none">
 
-  <button type="submit" style="background-color: #4CAF50; color: white; padding: 12px 20px; border: none; border-radius: 4px; cursor: pointer;">Send Message</button>
+<button type="submit" style="background-color: #4CAF50; color: white; padding: 12px 20px; border: none; border-radius: 4px; cursor: pointer;">Send Message</button>
 
 </form>
 <!-- End of improved contact form -->
