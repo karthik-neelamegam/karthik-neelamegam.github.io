@@ -3,19 +3,26 @@
 layout: default # Use the theme's default layout
 ---
 
-## About Me
+<h2 style="display: flex; align-items: center;">
+  About Me
+  <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank" rel="noopener noreferrer" title="View LinkedIn Profile" style="text-decoration: none; margin-left: 10px; line-height: 1;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;">
+      <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
+    </svg>
+  </a>
+</h2>
+<!-- End replacement block -->
 
 <!-- Start: Profile Photo -->
 <img src="assets/img/karthik-pic.jpg" alt="Karthik Neelamegam" style="float: right; width: 150px; border-radius: 50%; margin-left: 20px; margin-bottom: 10px;">
 <!-- End: Profile Photo -->
 
-I'm Karthik Neelamegam, an experienced professional in the quantitative trading industry, soon transitioning into a Quant Research role at a leading hedge fund. My background provides a unique perspective across different facets of the quant world:
+I'm Karthik Neelamegam, an experienced professional in the quantitative trading industry, transitioning into a quant research/trading role at Squarepoint Capital in London. My background provides a unique perspective across different facets of the quant world:
 
-*   **Education:** BA (Hons) Mathematics & Computer Science from the **University of Cambridge** (First Class Honours, ranked 9th/120). Awarded 'Highly Commended' for dissertation and 'Best Technical Achievement' for group project.
-*   **Quant Trading:** **Quantitative Trader** at **Maven Securities**, focused on S&P options market making (ES/SPX). Experienced in electronic trading, risk management, desk growth, and developing automation tools (Python/SQL).
-*   **Quant Software Engineering:** **Software Engineer** at **Five Rings Capital**. Worked across the stack on low-latency trading strategies, quant models, infrastructure, and analytical tools using **C++, Python, Cython, SQL on Linux**. Modernised legacy testing systems.
-*   **Technical Skills:** Proficient in **C/C++, Python, Java, SQL, Probability, Statistics, Machine Learning**, with practical experience in high-performance computing, system design, and data analysis.
-*   **Upcoming Role:** Starting a **Quantitative Researcher** position shortly, further deepening my expertise in the field.
+*   **Formal Education:** BA Mathematics & Computer Science from the **University of Cambridge** (First Class Honours, ranked top 10).
+*   **Quant Trading Experience:** Quantitative Trader at **Maven Securities** (options market making).
+*   **Quant Research Experience:** Quantitative Researcher at **Squarepoint Capital** (systematic vol trading).
+*   **Quant Dev Experience:** Software Engineer at **Five Rings Capital** (low latency C++).
 
 I understand the recruitment landscape and the skills required to succeed. I've navigated the path you're on and want to help you achieve your career goals.
 
@@ -97,7 +104,6 @@ Ready to boost your quant career prospects? Use the form below to get in touch, 
   <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;">
     <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
   </svg>
-</a>
 <!-- End: LinkedIn Icon -->
 
 ---
