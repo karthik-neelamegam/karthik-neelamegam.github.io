@@ -29,23 +29,23 @@ I understand the recruitment landscape and the skills required to succeed. I've 
 
 ## Services Offered
 
-I offer tailored coaching and review services for aspiring Quantitative Traders, Software Engineers, and Researchers. Pricing details for services and packages are available upon request.
+I offer tailored coaching and review services for aspiring Quantitative Traders, Researchers and Devs.
 
 ### Individual Services
 
-*   **Resume Review:** In-depth feedback to tailor your CV for quant roles.
-*   **Cover Letter Review:** Ensure your letter is impactful and targeted.
-*   **Strategy Chat (30-60 min):** Discuss career paths, firm types, and application strategy.
-*   **Technical Mock Interview (60+ min):** Choose focus: Quant Trader (Math, Prob, Markets), Quant SWE (Coding, Systems), or Quant Research (Stats, ML, Python). Includes detailed feedback.
-*   **Behavioral / Fit Mock Interview (60+ min):** Practice common behavioral questions and firm-specific fit.
-*   **Project Deep Dive Prep:** Prepare to effectively discuss your technical projects.
+*   **Resume Review:** In-depth feedback to tailor your CV for quant roles. **£120**
+*   **Cover Letter Review:** Ensure your letter is impactful and targeted. **£80**
+*   **Strategy Chat (60 min):** Discuss career paths, firm types, and application strategy. **£180**
+*   **Technical Mock Interview (60-75 min):** Choose focus: Quant Trader (Math, Prob, Markets), Quant SWE (Coding, Systems), or Quant Research (Stats, ML, Python). Includes detailed feedback. **£220**
+*   **Behavioral / Fit Mock Interview (60 min):** Practice common behavioral questions and firm-specific fit. **£200**
+*   **Project Deep Dive Prep (60 min):** Prepare to effectively discuss your technical projects. **£150**
 
 ### Packages
 
-*   **Application Quick Start:** Resume Review + Cover Letter Review.
-*   **Interview Essentials:** 1 x Technical Mock + 1 x Behavioral Mock.
-*   **Quant Ready Package:** Resume Review + 1 x Tech Mock + 1 x Behavioral Mock + 1 x Strategy Chat.
-*   **Premium Overhaul:** Resume Review + Cover Letter Review + 2 x Tech Mocks + 1 x Behavioral Mock + 1 x Strategy Chat.
+*   **Application Quick Start:** Resume Review + Cover Letter Review. **£180**
+*   **Interview Essentials:** 1 x Technical Mock + 1 x Behavioral Mock. **£370**
+*   **Quant Ready Package:** Resume Review + 1 x Tech Mock + 1 x Behavioral Mock + 1 x Strategy Chat. **£630**
+*   **Premium Overhaul:** Resume Review + Cover Letter Review + 2 x Tech Mocks + 1 x Behavioral Mock + 1 x Strategy Chat. **£880**
 
 *(Please specify desired focus for mock interviews when booking packages.)*
 
