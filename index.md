@@ -3,12 +3,6 @@
 layout: default # Use the theme's default layout
 ---
 
-# Karthik Neelamegam | Quant Finance Career Consulting
-
-**Leverage industry expertise to launch your career in quantitative finance.**
-
----
-
 ## About Me
 
 I'm Karthik Neelamegam, an experienced professional in the quantitative trading industry, soon transitioning into a Quant Research role at a leading hedge fund. My background provides a unique perspective across different facets of the quant world:
