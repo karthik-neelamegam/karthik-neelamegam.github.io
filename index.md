@@ -61,40 +61,38 @@ I offer tailored coaching and review services for aspiring Quantitative Traders,
 
 Ready to boost your quant career prospects? Use the form below to get in touch, or email me directly. Please include which service(s) or package(s) you are interested in and a brief overview of your background.
 
-<!-- IMPORTANT: Replace the action URL below with your Formspree endpoint -->
-<form action="https://formspree.io/f/xkgjqken" method="POST">
-  <label>
-    Your Name:
-    <input type="text" name="name" required>
-  </label>
-  <br><br>
-  <label>
-    Your Email:
-    <input type="email" name="email" required>
-  </label>
-  <br><br>
-  <label>
-    Subject:
-    <input type="text" name="_subject"> <!-- Optional: lets user set email subject -->
-  </label>
-  <br><br>
-  <label>
-    Message (including service/package interest):
-    <textarea name="message" rows="5" required></textarea>
-  </label>
-  <br><br>
+<!-- Start of improved contact form -->
+<form action="https://formspree.io/f/your_unique_code" method="POST" style="margin-top: 20px;">
+
+  <label for="contact-name">Your Name:</label><br>
+  <input type="text" id="contact-name" name="name" required style="width: 90%; padding: 8px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px;">
+  <br>
+
+  <label for="contact-email">Your Email:</label><br>
+  <input type="email" id="contact-email" name="email" required style="width: 90%; padding: 8px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px;">
+  <br>
+
+  <label for="contact-subject">Subject:</label><br>
+  <input type="text" id="contact-subject" name="_subject" style="width: 90%; padding: 8px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px;">
+  <br>
+
+  <label for="contact-message">Message (including service/package interest):</label><br>
+  <textarea id="contact-message" name="message" rows="6" required style="width: 90%; padding: 8px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 4px;"></textarea>
+  <br>
+
   <!-- Optional: Add a hidden field for redirection after submission -->
   <!-- <input type="hidden" name="_next" value="https://your-github-username.github.io/thankyou.html"> -->
-  
+
   <!-- Optional: honeypot field for basic spam protection -->
   <input type="text" name="_gotcha" style="display:none">
 
-  <button type="submit">Send Message</button>
+  <button type="submit" style="background-color: #4CAF50; color: white; padding: 12px 20px; border: none; border-radius: 4px; cursor: pointer;">Send Message</button>
+
 </form>
+<!-- End of improved contact form -->
 
 <br>
 **Alternatively, you can email me directly at:** karthikeyan.neelamegam@outlook.com
-
 ---
 
 *Disclaimer: Services provide guidance and coaching based on my experience. No guarantee of employment is offered or implied.*
