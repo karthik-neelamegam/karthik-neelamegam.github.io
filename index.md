@@ -1,8 +1,3 @@
----
-# This front matter block is optional but can control layout for some themes
-layout: default # Use the theme's default layout
----
-
 # Karthik Neelamegam | Quant Finance Career Consulting
 
 **Leverage industry expertise to launch your career in quantitative finance.**
