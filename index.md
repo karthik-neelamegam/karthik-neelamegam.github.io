@@ -21,8 +21,8 @@ I'm Karthik Neelamegam, an experienced professional in the quantitative trading 
 
 *   **Formal Education:** BA Mathematics & Computer Science from the **University of Cambridge** (First Class Honours, ranked top 10).
 *   **Quant Trading Experience:** Quantitative Trader at **Maven Securities** (options market making).
-*   **Quant Research Experience:** Quantitative Researcher at **Squarepoint Capital** (systematic vol trading).
-*   **Quant Dev Experience:** Software Engineer at **Five Rings Capital** (low latency C++).
+*   **Quant Research Experience:** Quantitative Researcher at **Squarepoint Capital** (systematic volatility trading).
+*   **Quant Dev Experience:** Software Engineer at **Five Rings Capital**.
 
 I understand the recruitment landscape and the skills required to succeed. I've navigated the path you're on and want to help you achieve your career goals.
 
