@@ -36,10 +36,10 @@ I offer tailored coaching and review services for aspiring Quantitative Traders,
 
 *   **Resume Review:** In-depth feedback to tailor your CV for quant roles.
 *   **Cover Letter Review:** Ensure your letter is impactful and targeted.
-*   **1-on-1 Strategy Chat (60 min):** Discuss career paths, firm types, and application strategy.
-*   **Technical Mock Interview (60-75 min):** Choose focus: Quant Trader (Math, Prob, Markets), Quant SWE (Coding, Systems), or Quant Research (Stats, ML, Python). Includes detailed feedback.
-*   **Behavioral / Fit Mock Interview (60 min):** Practice common behavioral questions and firm-specific fit.
-*   **Project Deep Dive Prep (60 min):** Prepare to effectively discuss your technical projects.
+*   **Strategy Chat (30-60 min):** Discuss career paths, firm types, and application strategy.
+*   **Technical Mock Interview (60+ min):** Choose focus: Quant Trader (Math, Prob, Markets), Quant SWE (Coding, Systems), or Quant Research (Stats, ML, Python). Includes detailed feedback.
+*   **Behavioral / Fit Mock Interview (60+ min):** Practice common behavioral questions and firm-specific fit.
+*   **Project Deep Dive Prep:** Prepare to effectively discuss your technical projects.
 
 ### Packages
 
@@ -54,9 +54,9 @@ I offer tailored coaching and review services for aspiring Quantitative Traders,
 
 ## Why Choose Me?
 
-*   **Real Industry Experience:** Insights from top-tier quant firms (Maven Securities, Five Rings Capital).
+*   **Real Industry Experience:** Insights from top-tier quant firms (Five Rings, Maven, Squarepoint).
 *   **Proven Academic Background:** Strong foundation from Cambridge Maths & CS.
-*   **Dual Perspective:** Experience as both a Quant Trader and Software Engineer, plus insights into Quant Research.
+*   **Diverse Persepctives:** Experience as a Quant Trader, Researcher and Dev.
 *   **Targeted Advice:** Coaching tailored specifically to breaking into the competitive quant finance industry.
 *   **Up-to-Date Knowledge:** Actively engaged in the industry and aware of current hiring trends.
 
