@@ -23,7 +23,7 @@ I'm Karthik Neelamegam, an experienced professional in the quantitative trading 
 *   **Quant Trading Experience:** Quantitative Trader at **Maven Securities** (options market making) (2022-25).
 *   **Quant Research Experience:** Quantitative Researcher at **Squarepoint Capital** (systematic volatility trading) (2025-present).
 
-While in university, I also participated in the application processes for Investment Banking, Consulting and Big Tech, and completed internships in BB IBD and FAANG SWE. I understand the recruitment landscape and the skills required to succeed. I've navigated the path you're on and want to help you achieve your career goals.
+I understand the recruitment landscape and the skills required to succeed. I've navigated the path you're on and want to help you achieve your career goals.
 
 ---
 
