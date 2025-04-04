@@ -1,0 +1,21 @@
+# Site settings
+title: Karthik Neelamegam | Quant Career Consulting
+description: >- # this means to ignore newlines until the next key
+  Expert advice and coaching for aspiring Quant Traders, Software Engineers,
+  and Researchers from an experienced industry professional (Cambridge, Maven Securities, Five Rings Capital).
+  Resume reviews, mock interviews, application strategy, and more.
+email: karthikeyan.neelamegam@outlook.com # Your contact email
+
+# THEME SELECTION: Add this line to choose your theme
+# This tells GitHub Pages to use the 'Minimal' theme.
+# You can find other supported themes here: https://pages.github.com/themes/
+theme: jekyll-theme-minimal
+
+# Optional settings (uncomment or add if needed)
+# logo: /assets/img/logo.png # If you add a logo image later
+# show_downloads: false # Set true to show GitHub repo download links
+
+# Build settings (usually fine as default)
+markdown: kramdown
+
+# Add any other theme-specific settings or plugins here if needed
