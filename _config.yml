@@ -9,7 +9,7 @@ email: karthikeyan.neelamegam@outlook.com # Your contact email
 # THEME SELECTION: Add this line to choose your theme
 # This tells GitHub Pages to use the 'Minimal' theme.
 # You can find other supported themes here: https://pages.github.com/themes/
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 
 # Optional settings (uncomment or add if needed)
 # logo: /assets/img/logo.png # If you add a logo image later
