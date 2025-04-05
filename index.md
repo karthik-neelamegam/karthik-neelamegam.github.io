@@ -16,49 +16,48 @@ layout: default # Use the theme's default layout
 <img src="assets/img/karthik-pic.jpg" alt="Karthik Neelamegam" style="float: right; width: 150px; border-radius: 50%; margin-left: 20px; margin-bottom: 10px;">
 <!-- End: Profile Photo -->
 
-I'm Karthik Neelamegam, an experienced professional in the quantitative trading industry, transitioning into a quant research/trading role at Squarepoint Capital in London. My background provides a unique perspective across different facets of the quant world:
+<h2 style="display: flex; align-items: center;">
+  About Me
+  <a href="https://www.linkedin.com/in/karthik-neelamegam/" target="_blank" rel="noopener noreferrer" title="View LinkedIn Profile" style="text-decoration: none; margin-left: 10px; line-height: 1;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;">
+      <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
+    </svg>
+  </a>
+</h2>
 
-*   **Quantitative Trader** at **Maven Securities** (options market making) (2022-25).
-*   **Quantitative Researcher** at **Squarepoint Capital** (systematic volatility trading) (2025-present).
-*   **Software Engineer** at **Five Rings Capital** (2021-22).
+I'm Karthik, an experienced quant professional currently transitioning into a quant research/trading role at Squarepoint Capital, a large quant hedge fund. My background spans all the main quant roles (trading, research, dev) at various types of firms (prop trading, market making, hedge fund), providing me with a unique perspective across different facets of the quant world. My experience includes:
+
+*   **Quantitative Researcher** at **Squarepoint Capital** (Quant Hedge Fund). (2025-Present).
+*   **Quantitative Trader** at **Maven Securities** (Options Market Making Firm). (2022-2025)
+*   **Software Engineer** at **Five Rings Capital** (Prop Trading firm). (2021-2022).
 *   BA Math + CS from the **University of Cambridge** (First Class Honours, ranked top 10).
 
-I understand the recruitment landscape and the skills required to succeed. I've navigated the path you're on and want to help you achieve your career goals.
+Across these roles, I've **reviewed a large number of resumes and cover letters** and **conducted many interviews** for quant positions. This experience has given me a clear understanding of what quant firms are seeking, allowing me to offer practical advice. I've also **successfully negotiated** my own and others' compensation packages, so I understand how to maximise your offer.
+
+My experience in various types of firms and roles has shown me what's really important in the quant recruitment process. I know how tough it can be, and I'm passionate about helping people like you succeed. I've guided many individuals to great quant positions at top-tier companies, and I'm confident I can help you too.
 
 ---
 
 ## Services Offered
 
-I offer tailored coaching and review services for aspiring Quantitative Traders, Researchers and Devs.
+I offer tailored coaching and review services for aspiring Quant Traders, Researchers and Devs.
 
 ### Individual Services
 
-*   **Resume Review:** In-depth feedback to tailor your CV for quant roles. **£120**
-*   **Cover Letter Review:** Ensure your letter is impactful and targeted. **£80**
-*   **Strategy Chat (60 min):** Discuss career paths, firm types, and application strategy. **£180**
-*   **Technical Mock Interview (60-75 min):** Choose focus: Quant Trader (Math, Prob, Markets), Quant SWE (Coding, Systems), or Quant Research (Stats, ML, Python). Includes detailed feedback. **£220**
-*   **Behavioral / Fit Mock Interview (60 min):** Practice common behavioral questions and firm-specific fit. **£200**
-*   **Project Deep Dive Prep (60 min):** Prepare to effectively discuss your technical projects. **£150**
+*   **Resume Review (£50):** Detailed feedback and suggestions on your resume's content, structure, and impact. Direct edits for **+£50**
+*   **Cover Letter Review (£50):** Detailed feedback and suggestions on your cover letter's content, structure, and impact. Direct edits for **+£50**
+*   **Virtual Coffee Chat (£50):** A brief 15 minute discussion on anything you want to ask about the industry, roles, or applications.
+*   **In-depth Strategy Chat (£180):** An in-depth 60 minute discussion on the industry landscape (roles and firms), career path strategy, application strategy, interviews, salary negotiation, and your specific questions. Aimed at guiding you on how to best maximise your career outcomes.
+*   **Technical Mock Interview (£150):** A 60-75 minute mock interview covering 1-3 technical topics, including: Mathematics, Probability, Statistics, Machine Learning, Estimations, Game Theory, Brainteasers, Options/Derivatives, Algorithms, Programming, System Design. Can also do a "project deep dive" mock interview, drilling into the details of a technical project that you have worked on. Includes detailed follow-up feedback and suggestions.
+*   **Fit Mock Interview (£100):** A 60-75 minute mock interview covering your background, experience, soft skills and commercial awareness. Includes detailed follow-up feedback and suggestions.
 
 ### Packages
 
-*   **Application Quick Start:** Resume Review + Cover Letter Review. **£180**
-*   **Interview Essentials:** 1 x Technical Mock + 1 x Behavioral Mock. **£370**
-*   **Quant Ready Package:** Resume Review + 1 x Tech Mock + 1 x Behavioral Mock + 1 x Strategy Chat. **£630**
-*   **Premium Overhaul:** Resume Review + Cover Letter Review + 2 x Tech Mocks + 1 x Behavioral Mock + 1 x Strategy Chat. **£880**
-
-*(Please specify desired focus for mock interviews when booking packages.)*
-
----
-
-## Why Choose Me?
-
-*   **Real Industry Experience:** Insights from top-tier quant firms (Five Rings, Maven, Squarepoint).
-*   **Proven Academic Background:** Strong foundation from Cambridge Maths & CS.
-*   **Diverse Persepctives:** Experience as a Quant Trader, Researcher and Dev.
-*   **Targeted Advice:** Coaching tailored specifically to breaking into the competitive quant finance industry.
-*   **Up-to-Date Knowledge:** Actively engaged in the industry and aware of current hiring trends.
-
+*   **Application Essentials (£180):** Resume Review (+ edits) & Cover Letter Review (+ edits). (Save £20)
+*   **Interview Prep (£225):** 1 Technical Mock Interview & 1 Fit Mock Interview. (Save £25)
+*   **Intensive Interview Prep (£350):** 2 Technical Mock Interviews & 1 Fit Mock Interview. (Save £50)
+*   **Intensive Technical Interview Prep (£375):** 3 Technical Mock Interviews. (Save £75)
+*   **Comprehensive Package (£530):** Resume Review (+ edits), Cover Letter Review (+ edits), 1 In-depth Strategy Chat, 1 Technical Mock Interview & 1 Fit Mock Interview. (Save £100)
 ---
 
 ## Contact Me
