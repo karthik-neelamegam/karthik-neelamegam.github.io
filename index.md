@@ -58,6 +58,7 @@ I offer tailored coaching and review services for aspiring Quant Traders, Resear
 *   **Intensive Interview Prep (£325):** 2 Technical Mock Interviews & 1 Fit Mock Interview. (Save £75)
 *   **Intensive Technical Interview Prep (£350):** 3 Technical Mock Interviews. (Save £100)
 *   **Comprehensive Package (£500):** Resume Review (+ edits), Cover Letter Review (+ edits), 1 In-depth Strategy Chat, 1 Technical Mock Interview & 1 Fit Mock Interview. (Save £150)
+
 ---
 
 ## Contact Me
