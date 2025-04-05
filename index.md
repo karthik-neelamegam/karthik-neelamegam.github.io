@@ -18,10 +18,10 @@ layout: default # Use the theme's default layout
 
 I'm Karthik Neelamegam, an experienced professional in the quantitative trading industry, transitioning into a quant research/trading role at Squarepoint Capital in London. My background provides a unique perspective across different facets of the quant world:
 
-*   **Formal Education:** BA Mathematics & Computer Science from the **University of Cambridge** (First Class Honours, ranked top 10).
-*   **Quant Dev Experience:** Software Engineer at **Five Rings Capital** (2021-22).
-*   **Quant Trading Experience:** Quantitative Trader at **Maven Securities** (options market making) (2022-25).
-*   **Quant Research Experience:** Quantitative Researcher at **Squarepoint Capital** (systematic volatility trading) (2025-present).
+*   **Quantitative Trader** at **Maven Securities** (options market making) (2022-25).
+*   **Quantitative Researcher** at **Squarepoint Capital** (systematic volatility trading) (2025-present).
+*   **Software Engineer** at **Five Rings Capital** (2021-22).
+*   BA Math + CS from the **University of Cambridge** (First Class Honours, ranked top 10).
 
 I understand the recruitment landscape and the skills required to succeed. I've navigated the path you're on and want to help you achieve your career goals.
 
