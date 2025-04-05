@@ -47,18 +47,15 @@ I offer tailored coaching and review services for aspiring Quant Traders, Resear
 
 ### Packages
 
-| Package                 | Included Services                                                                                                                                                                                           | Price   | Savings |
-| :---------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------ |
-| Application Essentials | <ul><li>Resume Review (+ edits)</li><li>Cover Letter Review (+ edits)</li></ul>                                                                                                                              | £150    | £50     |
-| Chat and Review         | <ul><li>Resume Review (+ edits)</li><li>Cover Letter Review (+ edits)</li><li>1 In-depth Strategy Chat</li></ul>                                                                                             | £300    | £100    |
-| Basic Interview Prep    | <ul><li>1 Technical Mock Interview</li><li>1 Fit Mock Interview</li></ul>                                                                                                                                   | £200    | £50     |
-| Intensive Interview Prep| <ul><li>2 Technical Mock Interviews</li><li>1 Fit Mock Interview</li></ul>                                                                                                                                   | £325    | £75     |
-| Deep Interview Prep     | <ul><li>3 Technical Mock Interviews</li><li>1 Fit Mock Interview</li></ul>                                                                                                                                   | £450    | £100    |
-| Comprehensive Package   | <ul><li>Resume Review (+ edits)</li><li>Cover Letter Review (+ edits)</li><li>1 In-depth Strategy Chat</li><li>1 Technical Mock Interview</li><li>1 Fit Mock Interview</li></ul>                               | £500    | £150    |
+| Package                 | Included Services                                                                                                                                          | Price   | Savings |
+| :---------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- | :------ | :------ |
+| Application Essentials | - Resume Review (+ edits)<br>- Cover Letter Review (+ edits)                                                                                              | £150    | £50     |
+| Chat and Review         | - Resume Review (+ edits)<br>- Cover Letter Review (+ edits)<br>- 1 In-depth Strategy Chat                                                                  | £300    | £100    |
+| Basic Interview Prep    | - 1 Technical Mock Interview<br>- 1 Fit Mock Interview                                                                                                     | £200    | £50     |
+| Intensive Interview Prep| - 2 Technical Mock Interviews<br>- 1 Fit Mock Interview                                                                                                     | £325    | £75     |
+| Deep Interview Prep     | - 3 Technical Mock Interviews<br>- 1 Fit Mock Interview                                                                                                     | £450    | £100    |
+| Comprehensive Package   | - Resume Review (+ edits)<br>- Cover Letter Review (+ edits)<br>- 1 In-depth Strategy Chat<br>- 1 Technical Mock Interview<br>- 1 Fit Mock Interview          | £500    | £150    |
 
----
-
-I'm also happy to discuss and negotiate bespoke packages tailored to your specific needs.
 ---
 
 I'm also happy to discuss and negotiate bespoke packages tailored to your specific needs.
